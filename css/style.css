@@ -1260,6 +1260,7 @@ input[type="text"] {
   text-decoration: none !important; }
 
 .colorlib-social-icons i {
+  padding-right: 0.2em;
   font-size: 24px;
   color: #b91646; }
 
